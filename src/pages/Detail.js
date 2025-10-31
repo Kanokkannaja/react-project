@@ -111,7 +111,6 @@ export default function Detail() {
       </Wrapper>
     );
   }
-
   return (
     <Wrapper>
       <DetailBox>
