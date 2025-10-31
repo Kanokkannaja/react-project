@@ -23,7 +23,7 @@ const GlobalStyle = createGlobalStyle`
     display: block;
   }
 
-  /* utility นิดหน่อย */
+ 
   .favorites-grid {
     display: grid;
     gap: 16px;
