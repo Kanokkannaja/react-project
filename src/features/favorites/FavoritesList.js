@@ -18,7 +18,6 @@ function FavoritesList() {
       </div>
     );
   }
-
   return (
     <div style={{ padding: '20px' }}>
       <h2 style={{ textAlign: 'center', marginBottom: '20px' }}>
