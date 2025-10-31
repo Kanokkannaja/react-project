@@ -9,7 +9,6 @@ export const fetchMovies = createAsyncThunk(
     return movies;
   }
 );
-
 const moviesSlice = createSlice({
   name: 'movies',
   initialState: {
