@@ -93,5 +93,4 @@ function FavoritesList() {
     </div>
   );
 }
-
 export default FavoritesList;
