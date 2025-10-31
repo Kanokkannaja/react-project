@@ -9,7 +9,6 @@ function FavoritesList() {
   const handleRemove = (imdbID) => {
     dispatch(removeFavorite(imdbID));
   };
-
   if (!favorites || favorites.length === 0) {
     return (
       <div style={{ textAlign: 'center', marginTop: '60px' }}>
